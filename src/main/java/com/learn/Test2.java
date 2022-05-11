@@ -10,5 +10,6 @@ public class Test2 {
         System.out.println("test2");
         System.out.println("upd");
         System.out.println("远程upd");
+        System.out.println("远程再次upd");
     }
 }
