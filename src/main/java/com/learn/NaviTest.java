@@ -10,5 +10,6 @@ public class NaviTest {
         System.out.println("hi");
         System.out.println("第一次解决冲突");
         System.out.println("本地upd");
+        System.out.println("本地再次upd");
     }
 }
