@@ -9,7 +9,6 @@ public class NaviTest {
     public static void main(String[] args) {
         System.out.println("hi");
         System.out.println("第一次解决冲突");
-        System.out.println("本地upd");
-        System.out.println("本地再次upd");
+        System.out.println("本地重新upd");
     }
 }
