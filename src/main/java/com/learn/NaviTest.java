@@ -8,7 +8,6 @@ public class NaviTest {
 
     public static void main(String[] args) {
         System.out.println("hi");
-        System.out.println("test");
-        System.out.println("test");
+        System.out.println("第一次解决冲突");
     }
 }
